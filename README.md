@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Aditya Siddhartha</h1>
-<h3 align="center">An IT Undergrad from CIT Coimbatore,diving into the field of Full-Stack Development</h3>
+<h3 align="center">An IT Undergrad from CIT Coimbatore, and just your avg Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
